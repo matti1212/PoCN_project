@@ -1,0 +1,14 @@
+Line	1	Asakusa
+Line	2	Mita
+Line	3	Shinjuku
+Line	4	Oedo
+Line	5	Chiyoda
+Line	6	Fukotoshin
+Line	7	Ginza
+Line	8	Hibyia
+Line  9	Marunouchi
+Line	10	Namboku
+Line	11	Tozai
+Line	12	Yurakucho
+Line	13	Hanzomon
+Line	14	Yamanote

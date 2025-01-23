@@ -1,0 +1,13 @@
+*Network
+*Vertices 434
+216 "ChurchAvenueBQ" 40.64966 -73.963646 0
+375 "ProspectPark" 40.661507 -73.962461 0
+186 "BrightonBeach" 40.577598 -73.961565 0
+353 "NewkirkAvenueBQ" 40.6357 -73.963 0
+*Edges
+216 353 1
+216 375 1
+375 216 1
+186 353 1
+353 186 1
+353 216 1

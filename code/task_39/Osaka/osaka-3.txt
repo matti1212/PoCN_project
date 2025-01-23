@@ -1,0 +1,10 @@
+Nishi-Umeda	Higobashi
+Higobashi	Hommachi
+Hommachi	Yotsubashi	
+Yotsubashi	Namba
+Namba		Daikokucho
+Daikokucho	Hanazonocho	
+Hanazonocho	Kishinosato
+Kishinosato	Tamade	 
+Tamade	 	Kitakagaya
+Kitakagaya	Suminoekoen

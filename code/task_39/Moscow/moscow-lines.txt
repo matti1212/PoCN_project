@@ -1,0 +1,12 @@
+Moscow	moscow-stations-times-final.txt	moscow-stations-exceptions-test.txt
+Line1	moscow-line1.txt	1935
+Line2	moscow-line2.txt	1938
+Line3	moscow-line3.txt	1938
+Line4	moscow-line4.txt	1958
+Line5	moscow-line5.txt	1950
+Line6	moscow-line6.txt	1958
+Line7	moscow-line7.txt	1966
+Line8	moscow-line8.txt	1979
+Line9	moscow-line9.txt	1983
+Line10	moscow-line10.txt	1995
+Line11	moscow-line11.txt	1995

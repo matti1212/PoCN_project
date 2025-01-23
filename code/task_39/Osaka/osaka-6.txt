@@ -1,0 +1,9 @@
+TenjimbashisujiRokuchome	Ogimachi
+Ogimachi			Minami-morimachi
+Minami-morimachi		Kitahama
+Kitahama			Sakaisuji-Hommachi
+Sakaisuji-Hommachi		Nagahoribashi
+Nagahoribashi			Nippombashi
+Nippombashi			Ebisucho
+Ebisucho			Dobutsuen-mae
+Dobutsuen-mae			Tengachaya

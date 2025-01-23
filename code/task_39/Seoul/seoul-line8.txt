@@ -1,0 +1,16 @@
+Amsa	Cheonho
+Cheonho	Gangdong-guOffice
+Gangdong-guOffice	Mongchontoseong
+Mongchontoseong	Jamsil
+Jamsil	Seokchon
+Seokchon	Songpa
+Songpa	GarakMarket
+GarakMarket	Munjeong
+Munjeong	Jangji
+Jangji	Bokjeong
+Bokjeong	Sanseong
+Sanseong	Namhansanseong
+Namhansanseong	Dandaeogeori
+Dandaeogeori	Sinheung
+Sinheung	Sujin
+Sujin	Moran

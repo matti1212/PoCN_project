@@ -1,0 +1,12 @@
+Shchyolkovskaya	Pervomayskaya
+Pervomayskaya	Izmaylovskaya
+Izmaylovskaya	Partizanskaya
+Partizanskaya	Semyonovskaya
+Semyonovskaya	Elektrozavodskaya
+Elektrozavodskaya	Baumanskaya
+Baumanskaya	Chkalovskaya-Kurskaya
+Chkalovskaya-Kurskaya	OkhotnyiRyad-PloshchadRevolyutsii-Teatralnaya
+OkhotnyiRyad-PloshchadRevolyutsii-Teatralnaya	AlexandrovskySad-Arbatskaya-BibliotekaImeniLenina-Borovitskaya
+AlexandrovskySad-Arbatskaya-BibliotekaImeniLenina-Borovitskaya	Smolenskaya-L3
+Smolenskaya-L3	Kiyevskaya
+Kiyevskaya	ParkPobedy

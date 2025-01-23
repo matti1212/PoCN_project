@@ -1,0 +1,316 @@
+A1	Saint-Germain-en-Laye
+A1	Le Vésinet – Le Pecq
+A1	Le Vésinet – Centre
+A1	Chatou – Croissy
+A1	Rueil-Malmaison
+A1	Nanterre – Ville
+A1	Nanterre – Université
+A3	Cergy – Le Haut
+A3	Cergy – Saint-Christophe
+A3	Cergy – Préfecture
+A3	Neuville – Université
+A3	Conflans – Fin d'Oise
+A3	Achères – Ville
+A5	Poissy
+A5	Achères – Grand Cormier
+A5	Maisons-Laffitte
+A5	Sartrouville
+A5	Houilles – Carrières-sur-Seine
+A5	Nanterre – Préfecture
+A5	La Défense
+A5	Charles de Gaulle - Étoile
+A5	Auber
+A5	Châtelet - Les Halles
+A5	Gare de Lyon
+A5	Nation
+A5	Vincennes
+A2	Fontenay-sous-Bois
+A2	Nogent-sur-Marne
+A2	Joinville-le-Pont
+A2	Saint-Maur – Créteil
+A2	Le Parc de Saint-Maur
+A2	Champigny
+A2	La Varenne – Chennevières
+A2	Sucy – Bonneuil
+A2	Boissy-Saint-Léger
+A4	Val de Fontenay
+A4	Neuilly-Plaisance
+A4	Bry-sur-Marne
+A4	Noisy-le-Grand – Mont d'Est
+A4	Noisy – Champs
+A4	Noisiel
+A4	Lognes
+A4	Torcy
+A4	Bussy-Saint-Georges
+A4	Val d'Europe
+A4	Marne-la-Vallée – Chessy
+B3	Aéroport Charles de Gaulle 2 – TGV
+B3	Aéroport Charles de Gaulle 1
+B3	Parc des Expositions
+B3	Villepinte
+B3	Sevran – Beaudottes
+B5	Mitry – Claye
+B5	Villeparisis – Mitry-le-Neuf
+B5	Vert-Galant
+B5	Sevran – Livry
+B5	Aulnay-sous-Bois
+B5	Le Blanc - Mesnil
+B5	Drancy
+B5	Le Bourget
+B5	La Courneuve – Aubervilliers
+B5	La Plaine – Stade de France
+B5	Gare du Nord
+B5	Châtelet - Les Halles
+B5	St-Michel - Notre-Dame
+B5	Luxembourg
+B5	Port-Royal
+B5	Denfert-Rochereau
+B5	Cité Universitaire
+B5	Gentilly
+B5	Laplace
+B5	Arcueil – Cachan
+B5	Bagneux
+B5	Bourg-la-Reine
+B2	Sceaux
+B2	Fontenay-aux-Roses
+B2	Robinson
+B4	Parc de Sceaux
+B4	La Croix de Berny
+B4	Antony
+B4	Fontaine-Michalon
+B4	Les Baconnets
+B4	Massy-Verrières
+B4	Massy – Palaiseau
+B4	Palaiseau
+B4	Palaiseau – Villebon
+B4	Lozère
+B4	Le Guichet
+B4	Orsay – Ville
+B4	Bures-sur-Yvette
+B4	La Hacquinière
+B4	Gif-sur-Yvette
+B4	Courcelle-sur-Yvette
+B4	Saint-Rémy-lès-Chevreuse
+C1	Pontoise
+C1	Saint-Ouen-l'Aumône
+C1	Saint-Ouen-l'Aumône – Liesse
+C1	Pierrelaye
+C1	Montigny – Beauchamp
+C1	Franconville – Le Plessis-Bouchard
+C1	Cernay
+C1	Ermont – Eaubonne
+C1	Saint-Gratien
+C1	Épinay-sur-Seine
+C1	Gennevilliers
+C1	Les Grésillons
+C1	Saint-Ouen
+C1	Porte de Clichy
+C1	Pereire - Levallois
+C1	Neuilly - Porte Maillot
+C1	Avenue Foch
+C1	Avenue Henri Martin
+C1	Boulainvilliers
+C1	Avenue du Président Kennedy
+C5	Versailles – Rive Gauche
+C5	Porchefontaine
+C7	Saint-Quentin-en-Yvelines
+C7	Saint-Cyr
+C7	Versailles – Chantiers
+C7	Viroflay – Rive Gauche
+C7	Chaville – Vélizy
+C7	Meudon – Val Fleury
+C7	Issy
+C7	Issy – Val de Seine
+C7	Boulevard Victor - Pont du Garigliano
+C7	Javel
+C7	Champ de Mars - Tour Eiffel
+C7	Pont de l'Alma
+C7	Invalides
+C7	Musée d'Orsay
+C7	St-Michel - Notre-Dame
+C7	Gare d'Austerlitz
+C7	Bibliothèque François Mitterrand
+C7	Ivry-sur-Seine
+C7	Vitry-sur-Seine
+C7	Les Ardoines
+C7	Choisy-le-Roi
+C2	Les Saules
+C2	Orly – Ville
+C2	Pont de Rungis – Aéroport d'Orly
+C2	Rungis – La Fraternelle
+C2	Chemin d'Antony
+C2	Massy – Verrières
+C2	Massy – Palaiseau
+C468	Villeneuve-le-Roi
+C468	Ablon
+C468	Athis-Mons
+C468	Juvisy
+C468	Savigny-sur-Orge
+C46	Épinay-sur-Orge
+C46	Sainte-Geneviève-des-Bois
+C46	Saint-Michel-sur-Orge
+C46	Brétigny-sur-Orge
+C4	La Norville - Saint-Germain-lès-Arpajon
+C4	Arpajon
+C4	Égly
+C4	Breuillet - Bruyères-le-Châtel
+C4	Breuillet - Village
+C4	Saint-Chéron
+C4	Sermaise
+C4	Dourdan
+C4	Dourdan-la-Forêt
+C6	Marolles-en-Hurepoix
+C6	Bouray
+C6	Lardy
+C6	Chamarande
+C6	Étréchy
+C6	Étampes
+C6	Saint-Martin d'Étampes
+C8	Petit Vaux
+C8	Gravigny – Balizy
+C8	Chilly-Mazarin
+C8	Longjumeau
+C8	Massy – Palaiseau
+C8	Igny
+C8	Bièvres
+C8	Vauboyen
+C8	Jouy-en-Josas
+C8	Petit Jouy - Les Loges
+C8	Versailles – Chantiers
+D1	Orry-la-ville-Coye
+D1	La Borne blanche
+D1	Survilliers-Fosses
+D1	Louvres
+D1	Les Noues
+D1	Goussainville
+D1	Villiers-le-Bel – Gonesse – Arnouville
+D1	Garges – Sarcelles
+D1	Pierrefitte – Stains
+D1	Saint-Denis
+D1	Stade de France – Saint-Denis
+D1	Gare du Nord
+D1	Châtelet-Les Halles
+D1	Gare de Lyon
+D24	Maisons-Alfort – Alfortville
+D24	Le Vert de Maisons
+D24	Villeneuve – Prairie
+D24	Villeneuve – Triage
+D24	Villeneuve-Saint-Georges
+D2	Montgeron – Crosne
+D2	Yerres
+D2	Brunoy
+D2	Boussy-Saint-Antoine
+D2	Combs-la-Ville – Quincy
+D2	Lieusaint – Moissy
+D2	Savigny-le-Temple – Nandy
+D2	Cesson
+D2	Le Mée
+D2	Melun
+D4	Vigneux-sur-Seine
+D4	Juvisy
+D4	Viry-Châtillon
+D4	Grigny – Centre
+D4	Orangis – Bois de l'Épine
+D4	Évry – Courcouronnes
+D4	Le Bras-de-Fer
+D4	Ris-Orangis
+D4	Grand-Bourg
+D4	Évry
+D4	Corbeil-Essonnes
+D4	Moulin-Galant
+D4	Mennecy
+D4	Ballancourt
+D4	La Ferté-Alais
+D4	Boutigny
+D4	Maisse
+D4	Buno-Gironville
+D4	Boigneville
+D4	Malesherbes
+E1	Haussmann - Saint-Lazare
+E1	Magenta
+E1	Pantin
+E1	Noisy-le-Sec
+E2	Bondy
+E2	Le Raincy – Villemomble – Montfermeil
+E2	Gagny
+E2	Le Chénay – Gagny
+E2	Chelles – Gournay
+E4	Rosny – Bois-Perrier
+E4	Rosny-sous-Bois
+E4	Val de Fontenay
+E4	Nogent – Le Perreux
+E4	Les Boullereaux – Champigny
+E4	Villiers-sur-Marne – Le Plessis-Trévise
+E4	Les Yvris – Noisy-le-Grand
+E4	Émerainville – Pontault-Combault
+E4	Roissy-en-Brie
+E4	Ozoir-la-Ferrière
+E4	Gretz - Armainvilliers
+E4	Tournan
+T1	Saint-Denis
+T1	Théâtre Gérald Philipe
+T1	Marché de Saint-Denis
+T1	Basilique de Saint-Denis
+T1	Cimetière de Saint-Denis
+T1	Hôpital Delafontaine
+T1	Cosmonautes
+T1	La Courneuve 6 Routes
+T1	Hôtel de Ville de La Courneuve
+T1	Stade Géo André
+T1	Danton
+T1	La Courneuve – 8 Mai 1945
+T1	Maurice Lachâtre
+T1	Drancy - Avenir
+T1	Hôpital Avicenne
+T1	Gaston Roulaud
+T1	Escadrille Normandie - Niémen
+T1	La Ferme
+T1	Libération
+T1	Hôtel de Ville de Bobigny
+T1	Bobigny - Pablo Picasso
+T1	Jean Rostand
+T1	Auguste Delaune
+T1	Pont de Bondy
+T1	Petit Noisy
+T1	Noisy-le-Sec
+T2	La Défense
+T2	Puteaux
+T2	Belvédère
+T2	Suresnes Longchamp
+T2	Les Coteaux
+T2	Les Milons
+T2	Parc de Saint-Cloud
+T2	Musée de Sèvres
+T2	Brimborion
+T2	Meudon-sur-Seine
+T2	Les Moulineaux
+T2	Jacques-Henri Lartigue
+T2	Issy - Val de Seine
+T3	Pont du Garigliano
+T3	Balard
+T3	Desnouettes
+T3	Porte de Versailles
+T3	George Brassens
+T3	Brancion
+T3	Porte de Vanves
+T3	Didot
+T3	Jean Moulin
+T3	Porte d'Orléans
+T3	Montsouris
+T3	Cité Universitaire
+T3	Stade Charléty
+T3	Poterne des Peupliers
+T3	Porte d'Italie
+T3	Porte de Choisy
+T3	Porte d'Ivry
+T4	Bondy
+T4	La Remise a Jorelle
+T4	Les Coquetiers
+T4	Allee de la Tour
+T4	Les Pavillons-sous-Bois
+T4	Gargan
+T4	Lycee  Henri Sellier
+T4	L'Abbaye
+T4	Freinville Sevran
+T4	Rougemont Chanteloup
+T4	Aulnay-sous-Bois

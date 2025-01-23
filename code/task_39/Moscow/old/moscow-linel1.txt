@@ -1,0 +1,4 @@
+UlitsaStarokachalovskaya	UlitsaSkobelevskaya
+UlitsaSkobelevskaya	BulvarAdmiralaUshakova
+BulvarAdmiralaUshakova	UlitsaGorchakova
+UlitsaGorchakova	BuninskayaAlleya

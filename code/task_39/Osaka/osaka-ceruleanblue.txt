@@ -1,0 +1,9 @@
+Cosmosquare		TradeCenter-mae
+TradeCenter-mae		Nakafuto
+Nakafuto		PortTown-nishi
+PortTown-nishi		PortTown-higashi
+PortTown-higashi	FerryTerminal
+FerryTerminal		Nanko-higashi
+Nanko-higashi		Nankoguchi
+Nankoguchi		Hirabayashi
+Hirabayashi		Suminoekoen

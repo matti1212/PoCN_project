@@ -1,0 +1,15 @@
+Tokyo	tokyo-stations-positions-years.txt	tokyo-stations-exceptions-years.txt
+Ligne1	tokyo-ligne1.txt			1960
+Ligne2	tokyo-ligne2.txt			1968
+Ligne3	tokyo-ligne3.txt			1978
+Ligne4	tokyo-ligne4.txt			1991
+Ligne5	tokyo-ligne5.txt			1969
+Ligne6	tokyo-ligne6.txt			1983
+Ligne7	tokyo-ligne7.txt			1927
+Ligne8	tokyo-ligne8.txt			1962
+Ligne9	tokyo-ligne9.txt			1954
+Ligne10	tokyo-ligne10.txt			1991
+Ligne11	tokyo-ligne11.txt			1964
+Ligne12	tokyo-ligne12.txt			1974
+Ligne13	tokyo-ligne13.txt			1978
+Ligne14	tokyo-ligne14.txt			1885

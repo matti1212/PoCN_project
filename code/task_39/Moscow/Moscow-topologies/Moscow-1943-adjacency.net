@@ -1,0 +1,46 @@
+*Network
+*Vertices 140
+44 "Komsomolskaya" 55.776486 37.656169 0
+51 "Kropotkinskaya" 55.744975 37.6015 0
+61 "Mayakovskaya" 55.77 37.595833 0
+57 "Lubyanka-KuznetskyMost" 55.760284 37.625861 0
+26 "Dinamo" 55.789722 37.558056 0
+78 "ParkKultury" 55.735218 37.593185 0
+110 "Sokol" 55.804722 37.515278 0
+24 "ChistiyePrudy-SretenskyBulvar-Turgenevskaya" 55.765492 37.637168 0
+47 "KrasniyeVorota" 55.768611 37.65 0
+1 "Aeroport" 55.800833 37.531111 0
+49 "Krasnoselskaya" 55.779978 37.666036 0
+111 "Sokolniki" 55.789236 37.679661 0
+73 "OkhotnyiRyad-PloshchadRevolyutsii-Teatralnaya" 55.757315 37.618796 0
+3 "AlexandrovskySad-Arbatskaya-BibliotekaImeniLenina-Borovitskaya" 55.751759 37.608406 0
+15 "Belorusskaya" 55.776856 37.583845 0
+*Edges
+44 47 1
+44 49 1
+51 3 1
+51 78 1
+61 15 1
+61 73 1
+57 24 1
+57 73 1
+26 1 1
+26 15 1
+78 51 1
+110 1 1
+24 47 1
+24 57 1
+47 24 1
+47 44 1
+1 26 1
+1 110 1
+49 44 1
+49 111 1
+111 49 1
+73 3 1
+73 57 1
+73 61 1
+3 51 1
+3 73 1
+15 26 1
+15 61 1

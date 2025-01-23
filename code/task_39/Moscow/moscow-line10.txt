@@ -1,0 +1,11 @@
+Trubnaya-TsvetnoyBulvar	ChistiyePrudy-SretenskyBulvar-Turgenevskaya
+ChistiyePrudy-SretenskyBulvar-Turgenevskaya	Chkalovskaya-Kurskaya
+Chkalovskaya-Kurskaya	PloshchadIlicha-Rimskaya
+PloshchadIlicha-Rimskaya	KrestyanskayaZastava-Proletarskaya
+KrestyanskayaZastava-Proletarskaya	Dubrovka
+Dubrovka	Kozhukhovskaya
+Kozhukhovskaya	Pechatniki
+Pechatniki	Volzhskaya
+Volzhskaya	Lyublino
+Lyublino	Bratislavskaya
+Bratislavskaya	Maryino

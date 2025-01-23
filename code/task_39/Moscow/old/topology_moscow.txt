@@ -1,0 +1,239 @@
+Line 1			
+
+Ulitsa Podbelskogo		Cherkizovskaya
+Cherkizovskaya			PreobrazhenskayaPloshchad
+PreobrazhenskayaPloshchad	Sokolniki	
+Sokolniki			Krasnoselskaya
+Krasnoselskaya			Komsomolskaya-Radialnaya
+Komsomolskaya-Radialnaya	KrasniyeVorota	
+KrasniyeVorota			ChistiyePrudy
+ChistiyePrudy			Lubyanka
+Lubyanka			OkhotnyiRyad
+OkhotnyiRyad			BibliotekaImeniLenina
+BibliotekaImeniLenina		Kropotkinskaya
+Kropotkinskaya			ParkKultury
+ParkKultury			Frunzenskaya
+Frunzenskaya			Sportivnaya
+Sportivnaya			VorobyovyGory
+VorobyovyGory			Universitet	
+Universitet			ProspektVernadskogo
+ProspektVernadskogo		Yugo-Zapadnaya
+
+Line 2			
+
+RechnoiVokzal			VodnyStadion
+VodnyStadion			Voykovskaya
+Voykovskaya			Sokol	
+Sokol				Aeroport
+Aeroport			Dinamo
+Dinamo				Belorusskaya-Radialnaya
+Belorusskaya-Radialnaya		Mayakovskaya
+Mayakovskaya			Tverskaya	
+Tverskaya			Teatralnaya	
+Teatralnaya			Novokuznetskaya	
+Novokuznetskaya			Paveletskaya-Radialnaya	
+Paveletskaya-Radialnaya		Avtozavodskaya	
+Avtozavodskaya			Tekhnopark	
+Tekhnopark			Kolomenskaya	
+Kolomenskaya			Kashirskaya	
+Kashirskaya			Kantemirovskaya	
+Kantemirovskaya			Tsaritsyno	
+Tsaritsyno			Orekhovo			
+Orekhovo			Domodedovskaya	
+Domodedovskaya			Krasnogvardeyskaya	
+Krasnogvardeyskaya		Brateyevo	
+
+Line 3				
+
+Shchyolkovskaya			Pervomayskaya
+Pervomayskaya			Izmaylovskaya
+Izmaylovskaya			Pervomayskaya(closed)
+Pervomayskaya(closed)		Partizanskaya
+Partizanskaya			Semyonovskaya	
+Semyonovskaya			Elektrozavodskaya
+Elektrozavodskaya		Baumanskaya			
+Baumanskaya			Kurskaya-Radialnaya
+Kurskaya-Radialnaya		PloshchadRevolyutsii
+PloshchadRevolyutsii		Arbatskaya	
+Arbatskaya			Smolenskaya
+Smolenskaya			Kiyevskaya
+Kiyevskaya			ParkPobedy
+ParkPobedy			SlavyanskyBulvar
+SlavyanskyBulvar		Kuntsevskaya	
+Kuntsevskaya			Molodyozhnaya	
+Molodyozhnaya			Krylatskoe	
+Krylatskoe			TroitseLykovo	
+TroitseLykovo			Strogino
+Strogino			Myakinino	
+Myakinino			Volokolamskaya	
+Volokolamskaya			Mitino	
+Mitino				Rozhdestveno
+
+Line 4				
+
+Kuntsevskaya			Pionerskaya
+Pionerskaya			FilyovskyPark	
+FilyovskyPark			Bagrationovskaya
+Bagrationovskaya		Fili	
+Fili				Kutuzovskaya
+Kutuzovskaya			Studencheskaya
+Studencheskaya			Mezhdunarodnaya
+Mezhdunarodnaya			Vystavochnaya
+Vystavochnaya			Kiyevskaya
+Kiyevskaya			Smolenskaya
+Smolenskaya			Arbatskaya
+Arbatskaya			AlexandrovskySad
+
+Line 5				
+
+ParkKultury			Oktyabrskaya
+Oktyabrskaya			Dobryninskaya
+Dobryninskaya			Paveletskaya-Koltsevaya	
+Paveletskaya-Koltsevaya		Taganskaya
+Taganskaya			Kurskaya
+Kurskaya			Komsomolskaya
+Komsomolskaya			ProspektMira
+ProspektMira			PloshchadSuvorova
+PloshchadSuvorova		Novoslobodskaya
+Novoslobodskaya			Belorusskaya
+Belorusskaya			Krasnopresnenskaya
+Krasnopresnenskaya		Rossiyskaya
+Rossiyskaya			Kiyevskaya
+
+Line 6				
+
+Chelobit'yevo			Medvedkovo
+Medvedkovo			Babushkinskaya
+Babushkinskaya			Sviblovo
+Sviblovo			BotanicheskySad
+BotanicheskySad			VDNKh	
+VDNKh				Alexeyevskaya	
+Alexeyevskaya			Rizhskaya	
+Rizhskaya			ProspektMira	
+ProspektMira			Sukharevskaya	
+Sukharevskaya			Turgenevskaya	
+Turgenevskaya			Kitay-Gorod	
+Kitay-Gorod			Tretyakovskaya
+Tretyakovskaya			Oktyabrskaya	
+Oktyabrskaya			Shabolovskaya	
+Shabolovskaya			LeninskyProspekt
+LeninskyProspekt		Akademicheskaya	
+Akademicheskaya			Profsoyuznaya	
+Profsoyuznaya			NoviyeCheryomushki
+NoviyeCheryomushki		Kaluzhskaya(closed)
+Kaluzhskaya(closed)		Kaluzhskaya	
+Kaluzhskaya			Belyayevo
+Belyayevo			Konkovo	
+Konkovo				TyoplyiStan
+TyoplyiStan			Yasenevo
+Yasenevo			Novoyasenevskaya
+
+Line 7				
+
+Planernaya			Skhodnenskaya	
+Skhodnenskaya			Tushinskaya		
+Tushinskaya			StadionSpartak		
+StadionSpartak			Shchukinskaya
+Shchukinskaya			OktyabrskoyePole
+OktyabrskoyePole		Polezhaevskaya		
+Polezhaevskaya			Begovaya	
+Begovaya			Ulitsa1905Goda
+Ulitsa1905Goda			Barrikadnaya
+Barrikadnaya			Pushkinskaya	
+Pushkinskaya			KuznetskyMost	
+KuznetskyMost			Kitay-Gorod	
+Kitay-Gorod			Taganskaya	
+Taganskaya			Proletarskaya		
+Proletarskaya			VolgogradskyProspekt	
+VolgogradskyProspekt		Tekstilshchiki		
+Tekstilshchiki			Kuzminki		
+Kuzminki			RyazanskiyProspekt	
+RyazanskiyProspekt		Vykhino			
+Vykhino				Zhulebino
+
+Line 8				
+
+Novokosino			Novogireevo	
+Novogireevo			Perovo	
+Perovo				ShosseEntuziastov
+ShosseEntuziastov		Aviamotornaya
+Aviamotornaya			PloshchadIlicha
+PloshchadIlicha			Marksistskaya	
+Marksistskaya			Tretyakovskaya	
+Tretyakovskaya			Kadashevskaya	
+Kadashevskaya			Volkhonka	
+Volkhonka			Plushchikha	
+Plushchikha			Konyushkovskaya	
+Konyushkovskaya			Tryokhgorka	
+Tryokhgorka			DelovoyTsentr
+
+Line 9				
+
+Altufyevo			Bibirevo	
+Bibirevo			Otradnoye	
+Otradnoye			Vladykino	
+Vladykino			Petrovsko-Razumovskaya	
+Petrovsko-Razumovskaya		Timiryazevskaya		
+Timiryazevskaya			Dmitrovskaya	
+Dmitrovskaya			Savyolovskaya	
+Savyolovskaya			Mendeleyevskaya	
+Mendeleyevskaya			TsvetnoyBulvar
+TsvetnoyBulvar			Chekhovskaya	
+Chekhovskaya			Borovitskaya	
+Borovitskaya			Polyanka
+Polyanka			Serpukhovskaya	
+Serpukhovskaya			Tulskaya	
+Tulskaya			Nagatinskaya	
+Nagatinskaya			Nagornaya		
+Nagornaya			NakhimovskyProspekt	
+NakhimovskyProspekt		Sevastopolskaya		
+Sevastopolskaya			Chertanovskaya
+Chertanovskaya			Yuzhnaya	
+Yuzhnaya			Prazhskaya
+Prazhskaya			UlitsaAkademikaYangelya
+UlitsaAkademikaYangelya		Annino
+Annino				BulvarDmitriyaDonskogo
+
+Line 10				
+
+Yubileynaya			Seligerskaya
+Seligerskaya			VerkhniyeLikhobory
+VerkhniyeLikhobory		Okruzhnaya
+Okruzhnaya			Petrovsko-Razumovskaya
+Petrovsko-Razumovskaya		Fonvizinskaya			
+Fonvizinskaya			Butyrskaya	
+Butyrskaya			MaryinaRoshcha
+Maryina Roshcha			Dostoyevskaya
+Dostoyevskaya			Trubnaya		
+Trubnaya			SretenskyBulvar	
+SretenskyBulvar			Chkalovskaya	
+Chkalovskaya			Rimskaya	
+Rimskaya			KrestyanskayaZastava	
+KrestyanskayaZastava		Dubrovka		
+Dubrovka			Kozhukhovskaya	
+Kozhukhovskaya			Pechatniki	
+Pechatniki			Volzhskaya	
+Volzhskaya			Lyublino	
+Lyublino			Bratislavskaya	
+Bratislavskaya			Maryino		
+Maryino				Borisovo
+Borisovo			Shipilovskaya
+Shipilovskaya			Zyablikovo
+
+Line 11				
+
+Pechatniki			Kashirskaya	
+Kashirskaya			Varshavskaya	
+Varshavskaya			Kakhovskaya
+
+Line L1				
+
+BittsevskyPark			Lesoparkovaya	
+Lesoparkovaya			UlitsaStarokachalovskaya
+UlitsaStarokachalovskaya	UlitsaSkobelevskaya	
+UlitsaSkobelevskaya		BulvarAdmiralaUshakova		
+BulvarAdmiralaUshakova		UlitsaGorchakova	
+UlitsaGorchakova		BuninskayaAlleya		
+BuninskayaAlleya		UlitsaStaropotapovskaya
+UlitsaStaropotapovskaya		UlitsaOstafevskaya		
+UlitsaOstafevskaya		Novokuryanovo

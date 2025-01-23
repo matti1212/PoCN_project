@@ -1,0 +1,13 @@
+Seoul	seoul-stations-times-OK.txt	seoul-exceptions-years.txt
+Bundang	seoul-lineBundang.txt	1994
+Gyeongui	seoul-lineGyeongui.txt	2009
+Incheon	seoul-lineIncheon.txt	1999
+Jungang	seoul-lineJungang.txt	1980
+Line1	seoul-line1.txt	1974
+Line2	seoul-line2.txt	1980
+Line3	seoul-line3.txt	1985
+Line4	seoul-line4.txt	1985
+Line5	seoul-line5.txt	1995
+Line6	seoul-line6.txt	2000
+Line7	seoul-line7.txt	1996
+Line8	seoul-line8.txt	1996

@@ -1,0 +1,396 @@
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line A
+Line B
+Line C
+Line D
+Line E
+Line F
+Line G
+Line J/Z	1893
+Line L
+Line M
+Line N
+Line Q
+Line R
+Line V
+Line W
+Line Z
+Alabama Avenue 			40.67683, -73.900008		1885
+Allerton Avenue-Pelham Parkway	
+Aqueduct Racetrack
+Aqueduct–North Conduit Avenue 			
+Astor Place
+Astoria Boulevard
+Astoria-Ditmars Boulevard
+Atlantic Avenue
+Atlantic Avenue–Pacific Street
+Avenue H 			
+Avenue I 			
+Avenue J 			
+Avenue M 			
+Avenue N 			
+Avenue P 			
+Avenue U
+Avenue X 			
+Bay 50th Street 			
+Bay Parkway 			
+Bay Ridge Avenue 			
+Bay Ridge-95th Street
+Baychester Avenue 		Gun Hill Road	
+Beach 105th Street
+Beach 25th Street 			
+Beach 36th Street 			
+Beach 44th Street 			
+Beach 60th Street 			
+Beach 67th Street 			
+Beach 90th Street
+Beach 98th Street
+Bedford Avenue 			
+Bedford Park Boulevard 	
+Bedford Park Boulevard-Lehman College
+Bedford–Nostrand Avenues 			
+Bergen Street 		
+Beverley Road 			
+Beverly Road
+Bleecker Street
+Borough Hall
+Bowery
+Bowling Green
+Briarwood–Van Wyck Boulevard
+Brighton Beach
+Broad Channel
+Broad Street 		
+Broadway 			
+Broadway Junction
+Broadway–Lafayette Street
+Broadway–Nassau Street
+Bronx Park East			East 180th Street
+Brook Avenue 			
+Brooklyin Bridge-City Hall
+Brooklyn Bridge-City Hall
+Brooklyn College-Flatbush Avenue
+Buhre Avenue 			
+Burke Avenue			Allerton Avenue
+Burke Avenue 	
+Burnside Avenue
+Bushwick Avenue-Aberdeen Street 			
+Canal Street				40.722, -74.006		1918		
+Canarsie-Rockaway Parkway
+Carroll Street
+Castle Hill Avenue 			
+Cathedral Parkway-110th Street		40.808, -73.967		1904	
+Central Avenue 			
+Central Park North-110th Street
+Chambers Street				40.715517, -74.009233	1918	
+Chauncey Street 			
+Christopher Street-Sheridan Square	40.733, -74.003		1918
+Church Avenue 
+City Hall 			
+Clark Street
+Classon Avenue 			
+Cleveland Street 			
+Clinton–Washington Avenues 			
+Coney Island–Stillwell Avenue
+Cortelyou Road 			
+Cortlandt Street			40.71, -74.012		1918
+Court Street 		
+Crescent Street 			
+Crown Heights-Utica Avenue
+Cypress Avenue 			
+Cypress Hills 			
+DeKalb Avenue 			
+Delancey Street
+Ditmas Avenue 			
+Dyckman Street				40.861, -73.925		1906	
+East 105th Street 			
+East 143rd Street-St. Mary's Street 			
+East 149th Street 			
+East 180th Street
+East Broadway 			
+Eastchester-Dyre Avenue		Baychester Avenue
+Eastern Parkway-Brooklyn Museum
+Eighth Avenue 			
+Eighth Street–NYU 	
+Elder Avenue 			
+Elmhurst Avenue 	
+Essex Street
+Euclid Avenue
+Far Rockaway–Mott Avenue
+Fifth Avenue-Bryant Park
+Fifth Avenue/53rd Street
+Fifth Avenue/59th Street
+First Avenue 			
+Flushing Avenue 			
+Flushing-Main Street
+Fordham Road 		
+Forest Avenue 			
+Forest Hills–71st Avenue
+Fort Hamilton Parkway 			
+Fourth Avenue
+Franklin Avenue 	
+Franklin Street				40.719, -74.007		1918
+Freeman Street 
+Fresh Pond Road 			
+Fulton Street
+Gates Avenue 			
+Graham Avenue 			
+Grand Army Plaza
+Grand Avenue–Newtown 	
+Grand Central
+Grand Street 			
+Grant Avenue 			
+Greenpoint Avenue 			
+Gun Hill Road
+Gun Hill Road			Burke Avenue
+Gun Hill Road 			Pelham Parkway
+Halsey Street 			
+Harlem-148th Street
+Hewes Street
+High Street–Brooklyn Bridge
+Houston Street				40.728592, -74.005322	1918
+Howard Beach–JFK Airport
+Hoyt Street-Fulton Mall 
+Hoyt–Schermerhorn Streets
+Hunterspoint Avenue
+Hunts Point Avenue 			
+Intervale Avenue
+Inwood–207th Street
+Jackson Avenue
+Jackson Heights–Roosevelt Avenue 
+Jamaica Center–Parsons/Archer
+Jamaica–179th Street
+Jamaica–Van Wyck
+Jay Street–Borough Hall
+Jefferson Street 			
+Junction Boulevard
+Junius Street
+Kew Gardens–Union Turnpike
+Kings Highway 			
+Kingsbridge Road 	
+Kingston Avenue
+Kingston–Throop Avenues 
+Knickerbocker Avenue 			
+Kosciuszko Street 			
+Lafayette Avenue 			
+Lawrence Street–MetroTech 			
+Lexington Avenue-53rd Street
+Lexington Avenue/59th Street
+Lexington Avenue–53rd Street
+Lexington Avenue–63rd Street
+Liberty Avenue 			
+Livonia Avenue 			
+Long Island City–Court Square
+Longwood Avenue 			
+Lorimer Street 		
+Lower East Side–Second Avenue
+Marble Hill-225th Street		40.874, -73.91		1907
+Marcy Avenue
+Metropolitan Avenue
+Mets-Willets Point
+Middle Village–Metropolitan Avenue
+Middletown Road 			
+Montrose Avenue 			
+Morgan Avenue 			
+Morris Park 			East 180th Street
+Morrison Avenue-Soundview 			
+Mosholu Parkway
+Mount Eden Avenue
+Myrtle Avenue
+Myrtle-Wyckoff Avenues
+Myrtle–Willoughby Avenues 			
+NYC subway
+Nassau Avenue 			
+Neck Road
+Neptune Avenue 			
+Nereid Avenue			233rd Street
+Nereid Avenue 
+Nevins Street
+New Lots Avenue
+New Utrecht Avenue 	
+Newkirk Avenue
+Ninth Avenue 		
+Ninth Street 		
+Northern Boulevard 	
+Norwood Avenue 			
+Norwood–205th Street 			
+Nostrand Avenue 	
+Ocean Parkway 			
+Ozone Park–Lefferts Boulevard
+Park Place
+Parkchester 			
+Parkside Avenue 			
+Parsons Boulevard 	
+Pelham Bay Park
+Pelham Parkway			Bronx Park East
+Pelham Parkway 	
+Pelham Parkway 			Morris Park	
+Pennsylvania Avenue
+President Street
+Prince Street 		
+Prospect Avenue 	
+Prospect Park 
+Queens Plaza 	
+Queensboro Plaza 	
+Ralph Avenue 			
+Rector Street				40.708, -74.013		1918
+Rockaway Avenue 			
+Rockaway Boulevard 			
+Rockaway Park–Beach 116th Street
+Roosevelt Island 	
+Saratoga Avenue
+Seneca Avenue 			
+Seventh Avenue 			
+Sheepshead Bay
+Shepherd Avenue 			
+Simpson Street 	
+Sixth Avenue
+Smith–Ninth Streets 	
+South Ferry				40.702472, -74.012833	1878
+Spring Street 	
+St. Lawrence Avenue 			
+Steinway Street 	
+Sterling Street
+Sutphin Boulevard 			
+Sutphin Boulevard–Archer Avenue–JFK Airport
+Sutter Avenue 			
+Sutter Avenue-Rutland Road
+Third Avenue 			
+Third Avenue-138th Street 			
+Third Avenue-149th Street
+Times Square
+Times Square-42nd Street		40.756, -73.987		1904
+Tremont Avenue
+Union Square
+Union Street 	
+Utica Avenue 		
+Van Cortlandt Park-242nd Street		40.889347, -73.898549	1908
+Van Siclen Avenue
+Vernon Boulevard-Jackson Avenue
+Wakefield-241st Street 			
+Wall Street
+West Eighth Street-New York Aquarium
+West Farms Square-East Tremont Avenue
+West Fourth Street-Washington Square
+Westchester Square-East Tremont Avenue 			
+Whitehall Street-South Ferry
+Whitlock Avenue 			 	
+Wilson Avenue 			
+Winthrop Street
+Woodhaven Boulevard
+Woodlawn
+Woodside-61st Street
+World Trade Center
+York Street 			
+Zerega Avenue 			
+10th Avenue
+14th Street				40.738, -73.999		1918
+14th Street–Union Square 
+15th Street–Prospect Park 			
+18th Street				40.741, -73.998		1918
+20th Avenue 		
+21st Street 			
+21st Street–Queensbridge
+23rd Street				40.744, -73.996		1918
+23rd Street-Ely Avenue
+25th Avenue 			
+28th Street							1918
+30th Avenue 		
+33rd Street
+33rd Street-Rawson Street 			
+34th Street-Herald Square
+34th Street-Jacob Javits Convention Center
+34th Street-Penn Station		40.751, -73.991		1918
+34th Street–Penn Station 
+36th Avenue
+36th Street
+39th Avenue
+40th Street-Lowery Street 			
+42nd Street-Bryant Park
+42nd Street-Grand Central
+42nd Street–Bryant Park
+42nd Street–Port Authority Bus Terminal 
+45th Road-Court House Square
+45th Street 	
+46th Street 		
+46th Street-Bliss Street
+47th-50th Streets-Rockefeller Center
+49th Street
+50th Street				40.761, -73.984		1904
+51st Street
+52nd Street 			
+53rd Street 			
+55th Street 		
+57th Street
+59th Street 		
+59th Street-Columbus Circle		40.767997, -73.981934	1904
+62nd Street 		
+62nd Street 		
+63rd Drive-Rego Park
+65th Street 		
+66th Street-Lincoln Center		40.774, -73.982		1904
+67th Avenue
+68th Street-Hunter College
+69th Street 			
+71st Street 		
+72nd Street				40.779, -73.982		1904
+74th Street-Broadway
+75th Avenue 		
+75th Street 			
+77th Street
+79th Street				40.784, -73.98		1904
+80th Street 			
+81st Street–Museum of Natural History
+82nd Street-Jackson Heights
+85th Street-Forest Parkway 			
+86th Street				40.788, -73.976		1904
+88th Street 			
+90th Street-Elmhurst Avenue 			
+96th Street				40.794, -73.972		1904
+103rd Street				40.799419, -73.968158	1904	
+103rd Street-Corona Plaza 			
+104th Street 			
+110th Street
+110th Street–Cathedral Parkway
+111th Street
+116th Street
+116th Street-Columbia University	40.808, -73.964		1904
+121st Street 		
+125th Street				40.815, -73.958		1904
+135th Street
+137th Street-City College 		40.821, -73.954		1904
+138th Street-Grand Concourse
+145th Street				40.826, -73.95		1904
+149th Street-Grand Concourse
+155th Street 			
+157th Street				40.834, -73.944		1904
+161st Street-Yankee Stadium
+163rd Street–Amsterdam Avenue 			
+167th Street
+168th Street				40.841022, -73.939791	1906
+169th Street 		
+170th Street
+174th Street
+174th–175th Streets
+175th Street
+176th Street
+181st Street				40.849, -73.933		1906
+182nd–183rd Streets
+183rd Street
+190th Street 			
+191st Street				40.855, -73.929		1911
+207th Street				40.867, -73.921		1906	
+215th Street				40.869, -73.915		1906
+219th Street			Gun Hill Road
+219th Street 
+225th Street			219th Street
+225th Street 
+231st Street				40.879, -73.905		1907
+233rd Street
+233rd Street			225th Street
+238th Street				40.885097, -73.900609	1908			

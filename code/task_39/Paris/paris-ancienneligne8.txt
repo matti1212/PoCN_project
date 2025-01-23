@@ -1,0 +1,14 @@
+JavelAndreCitroen	Eglised'Auteuil
+Eglised'Auteuil	MichelAngeAuteuil
+MichelAngeAuteuil	Ported'Auteuil
+Ported'Auteuil	MichelAngeMolitor
+MichelAngeMolitor	ChardonLagache
+ChardonLagache	Mirabeau
+Mirabeau	JavelAndreCitroen
+JavelAndreCitroen	CharlesMichels
+CharlesMichels	AvenueEmileZola
+AvenueEmileZola	LaMottePicquetGrenelle
+LaMottePicquetGrenelle	EcoleMilitaire
+EcoleMilitaire	LaTourMaubourg
+LaTourMaubourg	Invalides
+Invalides	Concorde

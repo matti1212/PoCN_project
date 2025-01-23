@@ -1,0 +1,10 @@
+Osaka	osaka-stations-positions-years.txt	osaka-stations-exceptions-years.txt
+Line1	osaka-1.txt		1933
+Line2	osaka-2.txt		1967
+Line3	osaka-3.txt		1942
+Line4	osaka-4.txt		1961
+Line5	osaka-5.txt		1969
+Line6	osaka-6.txt		1969
+Line7	osaka-7.txt		1990
+Line8	osaka-8.txt		2006
+LineCeruleanBlue	osaka-ceruleanblue.txt		1981

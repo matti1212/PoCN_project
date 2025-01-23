@@ -1,0 +1,12 @@
+Ueno-hirokoji	Suehirocho
+Ueno-hirokoji	Ueno
+Asakusa	Tawaramachi
+Ueno	Inaricho
+Ueno	Ueno-hirokoji
+Suehirocho	Kanda
+Suehirocho	Ueno-hirokoji
+Kanda	Suehirocho
+Inaricho	Tawaramachi
+Inaricho	Ueno
+Tawaramachi	Asakusa
+Tawaramachi	Inaricho

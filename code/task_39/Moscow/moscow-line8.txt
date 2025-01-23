@@ -1,0 +1,6 @@
+Novogireevo	Perovo
+Perovo	ShosseEntuziastov
+ShosseEntuziastov	Aviamotornaya
+Aviamotornaya	PloshchadIlicha-Rimskaya
+PloshchadIlicha-Rimskaya	Marksistskaya-Taganskaya
+Marksistskaya-Taganskaya	Novokuznetskaya-Tretyakovskaya

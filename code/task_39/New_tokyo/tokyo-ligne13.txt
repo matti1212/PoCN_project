@@ -1,0 +1,13 @@
+Shibuya				Omotesando		
+Omotesando			Aoyama-itchome	
+Aoyama-itchome		Nagatacho		
+Nagatacho			Hanzomon		
+Hanzomon			Kudanshita		
+Kudanshita			Jimbocho		
+Jimbocho				Otemachi		
+Otemachi				Mitsukoshimae
+Mitsukoshimae		Suitengumae	
+Suitengumae			Kiyosumi-shirakawa
+Kiyosumi-shirakawa	Sumiyoshi		
+Sumiyoshi			Kinshicho		
+Kinshicho			Oshiage			

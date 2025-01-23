@@ -1,0 +1,62 @@
+ID	Name	Ligne	OpeningYearOfStation
+S11	Alexandrovsky Sad-Arbatskaya-Biblioteka Imeni Lenina-Borovitskaya	Ligne1	1935
+F13	Alexandrovsky Sad-Arbatskaya-Biblioteka Imeni Lenina-Borovitskaya	Ligne4	1935
+A11	Alexandrovsky Sad-Arbatskaya-Biblioteka Imeni Lenina-Borovitskaya	Ligne3	1953
+ST12	Alexandrovsky Sad-Arbatskaya-Biblioteka Imeni Lenina-Borovitskaya	Ligne9	1986
+K12	Barrikadnaya-Krasnopresnenskaya	Ligne5	1954
+T10	Barrikadnaya-Krasnopresnenskaya	Ligne7	1972
+Z07	Belorusskaya	Ligne2	1938
+K11	Belorusskaya	Ligne5	1952
+ST25	Bulvar Dmitriya Donskogo-Ulitsa Starokachalovskaya	Ligne9	2002
+B03	Bulvar Dmitriya Donskogo-Ulitsa Starokachalovskaya	LigneL1	2003
+T11	Chekhovskaya-Pushkinskaya-Tverskaya	Ligne7	1975
+Z09	Chekhovskaya-Pushkinskaya-Tverskaya	Ligne2	1979
+ST11	Chekhovskaya-Pushkinskaya-Tverskaya	Ligne9	1987
+S08	Chistiye Prudy-Sretensky Bulvar-Turgenevskaya	Ligne1	1935
+KR11	Chistiye Prudy-Sretensky Bulvar-Turgenevskaya	Ligne6	1971
+L11	Chistiye Prudy-Sretensky Bulvar-Turgenevskaya	Ligne10	2007
+A09	Chkalovskaya-Kurskaya	Ligne3	1944
+K06	Chkalovskaya-Kurskaya	Ligne5	1950
+L12	Chkalovskaya-Kurskaya	Ligne10	1995
+K03	Dobryninskaya-Serpukhovskaya	Ligne5	1950
+ST14	Dobryninskaya-Serpukhovskaya	Ligne9	1983
+KA04	Kakhovskaya-Sevastopolskaya	Ligne11	1969
+ST19	Kakhovskaya-Sevastopolskaya	Ligne9	1983
+KA02	Kashirskaya	Ligne11	1969
+Z16	Kashirskaya	Ligne2	1969
+KR12	Kitay-Gorod	Ligne6	1971
+T13	Kitay-Gorod	Ligne7	1975
+F10	Kiyevskaya	Ligne4	1937
+A13	Kiyevskaya	Ligne3	1953
+K14	Kiyevskaya	Ligne5	1954
+S06	Komsomolskaya	Ligne1	1935
+K07	Komsomolskaya	Ligne5	1952
+T15	Krestyanskaya Zastava-Proletarskaya	Ligne7	1966
+L14	Krestyanskaya Zastava-Proletarskaya	Ligne10	1995
+A16	Kuntsevskaya	Ligne3	1965
+F01	Kuntsevskaya	Ligne4	1965
+S09	Lubyanka-Kuznetsky Most	Ligne1	1935
+T12	Lubyanka-Kuznetsky Most	Ligne7	1975
+K05	Marksistskaya-Taganskaya	Ligne5	1950
+T14	Marksistskaya-Taganskaya	Ligne7	1966
+KK07	Marksistskaya-Taganskaya	Ligne8	1979
+K10	Mendeleyevskaya-Novoslobodskaya	Ligne5	1952
+ST09	Mendeleyevskaya-Novoslobodskaya	Ligne9	1988
+Z11	Novokuznetskaya-Tretyakovskaya	Ligne2	1943
+KR13	Novokuznetskaya-Tretyakovskaya	Ligne6	1971
+KK08	Novokuznetskaya-Tretyakovskaya	Ligne8	1986
+S10	Okhotnyi Ryad-Ploshchad Revolyutsii-Teatralnaya	Ligne1	1935
+Z10	Okhotnyi Ryad-Ploshchad Revolyutsii-Teatralnaya	Ligne2	1938
+A10	Okhotnyi Ryad-Ploshchad Revolyutsii-Teatralnaya	Ligne3	1938
+K02	Oktyabrskaya	Ligne5	1950
+KR14	Oktyabrskaya	Ligne6	1962
+S13	Park Kultury	Ligne1	1935
+K01	Park Kultury	Ligne5	1950
+Z12	Paveletskaya	Ligne2	1943
+K04	Paveletskaya	Ligne5	1950
+KK06	Ploshchad Ilicha-Rimskaya	Ligne8	1979
+L13	Ploshchad Ilicha-Rimskaya	Ligne10	1995
+K08	Prospekt Mira	Ligne5	1952
+KR09	Prospekt Mira	Ligne6	1958
+ST10	Trubnaya-Tsvetnoy Bulvar	Ligne9	1988
+L10	Trubnaya-Tsvetnoy Bulvar	Ligne10	2007

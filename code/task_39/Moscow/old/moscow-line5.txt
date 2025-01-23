@@ -1,0 +1,11 @@
+ParkKultury	Oktyabrskaya
+Oktyabrskaya	Dobryninskaya-Serpukhovskaya
+Dobryninskaya-Serpukhovskaya	Paveletskaya
+Paveletskaya	Marksistskaya-Taganskaya
+Marksistskaya-Taganskaya	Chkalovskaya-Kurskaya
+Chkalovskaya-Kurskaya	Komsomolskaya
+Komsomolskaya	ProspektMira
+ProspektMira	Mendeleyevskaya-Novoslobodskaya
+Mendeleyevskaya-Novoslobodskaya	Belorusskaya
+Belorusskaya	Barrikadnaya-Krasnopresnenskaya
+Barrikadnaya-Krasnopresnenskaya	Kiyevskaya

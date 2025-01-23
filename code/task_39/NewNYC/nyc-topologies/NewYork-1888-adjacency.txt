@@ -1,0 +1,16 @@
+AlabamaAvenue	BroadwayJunction
+AlabamaAvenue	VanSiclenAvenueJZ
+ProspectPark	ChurchAvenueBQ
+ChaunceyStreet	BroadwayJunction
+ChaunceyStreet	HalseyStreetJZ
+VanSiclenAvenueJZ	AlabamaAvenue
+BrightonBeach	NewkirkAvenueBQ
+ChurchAvenueBQ	NewkirkAvenueBQ
+ChurchAvenueBQ	ProspectPark
+HalseyStreetJZ	ChaunceyStreet
+HalseyStreetJZ	GatesAvenue
+NewkirkAvenueBQ	BrightonBeach
+NewkirkAvenueBQ	ChurchAvenueBQ
+GatesAvenue	HalseyStreetJZ
+BroadwayJunction	AlabamaAvenue
+BroadwayJunction	ChaunceyStreet

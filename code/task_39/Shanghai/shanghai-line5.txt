@@ -1,0 +1,10 @@
+Xinzhuang	ChunshenRoad
+ChunshenRoad	YinduRoad
+YinduRoad	Zhuanqiao
+Zhuanqiao	Beiqiao
+Beiqiao	JianchuanRoad
+JianchuanRoad	DongchuanRoad
+DongchuanRoad	JinpingRoad
+JinpingRoad	HuaningRoad
+HuaningRoad	WenjingRoad
+WenjingRoad	MinhangDevelopmentZone

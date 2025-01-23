@@ -1,0 +1,16 @@
+Taisho			Dome-maeChiyozaki 
+Dome-maeChiyozaki	Nishi-Nagahori 
+Nishi-Nagahori		Nishiohashi
+Nishiohashi		Shinsaibashi
+Shinsaibashi		Nagahoribashi
+Nagahoribashi		Matsuyamachi
+Matsuyamachi		TanimachiRokuchome
+TanimachiRokuchome	Tamatsukuri
+Tamatsukuri		Morinomiya
+Morinomiya		OsakaBusinessPark
+OsakaBusinessPark	Kyobashi
+Kyobashi		GamoYonchome
+GamoYonchome		Imafuku-Tsurumi
+Imafuku-Tsurumi		Yokozutsumi
+Yokozutsumi		Tsurumi-ryokuchi
+Tsurumi-ryokuchi	Kadoma-minami

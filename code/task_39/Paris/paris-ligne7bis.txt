@@ -1,0 +1,8 @@
+LouisBlanc	Jaures
+Jaures	Bolivar
+Bolivar	ButtesChaumont
+ButtesChaumont	Botzaris
+Botzaris	PlacedesFetes
+PlacedesFetes	PreSaintGervais
+PreSaintGervais	Danube
+Danube	Botzaris

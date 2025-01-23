@@ -1,0 +1,8 @@
+Invalides	Varenne
+Varenne	SaintFrancoisXavier
+SaintFrancoisXavier	Duroc
+Duroc	MontparnasseBienvenue
+MontparnasseBienvenue	Gaite
+Gaite	Pernety
+Pernety	Plaisance
+Plaisance	PortedeVanves

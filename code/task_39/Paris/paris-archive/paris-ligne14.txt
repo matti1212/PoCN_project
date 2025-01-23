@@ -1,0 +1,8 @@
+SaintLazare	Madeleine
+Madeleine	Pyramides
+Pyramides	Chatelet
+Chatelet	GaredeLyon
+GaredeLyon	Bercy
+Bercy	CourSaintEmilion
+CourSaintEmilion	BibliothequeFrancoisMitterrand
+BibliothequeFrancoisMitterrand	Olympiades

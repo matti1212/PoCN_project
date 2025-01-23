@@ -1,0 +1,6 @@
+Tawaramachi	Asakusa
+Tawaramachi	Inaricho
+Asakusa	Tawaramachi
+Ueno	Inaricho
+Inaricho	Tawaramachi
+Inaricho	Ueno

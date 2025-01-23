@@ -1,0 +1,15 @@
+Wakoshi					Chikatetsu-Narimasu	
+Chikatetsu-Narimasu		Chikatetsu-Akatsuka	
+Chikatetsu-Akatsuka		Heiwadai
+Heiwadai					Hikawadai		
+Hikawadai				Kotake-Mukaihara	
+Kotake-Mukaihara			Senkawa			
+Senkawa					Kanamecho		
+Kanamecho				Ikebukuro		
+Ikebukuro				Zoshigaya		
+Zoshigaya				Nishi-Waseda		
+Nishi-Waseda				Higashi-Shinjuku	
+Higashi-Shinjuku			Shinjuku-sanchome
+Shinjuku-sanchome		Kitasando	
+Kitasando				Meiji-Jingumae
+Meiji-Jingumae			Shibuya		

@@ -1,0 +1,18 @@
+Ulitsa Podbelskogo	Cherkizovskaya
+Cherkizovskaya	PreobrazhenskayaPloshchad
+PreobrazhenskayaPloshchad	Sokolniki
+Sokolniki	Krasnoselskaya
+Krasnoselskaya	Komsomolskaya
+Komsomolskaya	KrasniyeVorota
+KrasniyeVorota	ChistiyePrudy-SretenskyBulvar-Turgenevskaya
+ChistiyePrudy-SretenskyBulvar-Turgenevskaya	Lubyanka-KuznetskyMost
+Lubyanka-KuznetskyMost	OkhotnyiRyad-PloshchadRevolyutsii-Teatralnaya
+OkhotnyiRyad-PloshchadRevolyutsii-Teatralnaya	AlexandrovskySad-Arbatskaya-BibliotekaImeniLenina-Borovitskaya
+AlexandrovskySad-Arbatskaya-BibliotekaImeniLenina-Borovitskaya	Kropotkinskaya
+Kropotkinskaya	ParkKultury
+ParkKultury	Frunzenskaya
+Frunzenskaya	Sportivnaya
+Sportivnaya	VorobyovyGory
+VorobyovyGory	Universitet
+Universitet	ProspektVernadskogo
+ProspektVernadskogo	Yugo-Zapadnaya

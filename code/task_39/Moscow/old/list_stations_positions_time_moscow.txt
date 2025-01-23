@@ -1,0 +1,216 @@
+Aeroport		   55.800833, 37.531111	1938	
+Akademicheskaya		   55.687778, 37.573333	1962	
+Alexandrovsky Sad	   55.752314, 37.610569	1935	
+Alexeyevskaya		   55.808889, 37.638611	1958	
+Altufyevo		   55.897778, 37.586944	1994	
+Annino				   		2001	No descriptions
+Arbatskaya		   55.752133, 37.601587	1935	
+Arbatskaya		   55.752222, 37.606111	1953	
+Aviamotornaya		   55.751944, 37.719444	1979	
+Avtozavodskaya		   55.707222, 37.6575	1943	
+Babushkinskaya		   55.869444, 37.664444	1978	
+Bagrationovskaya	   55.743772, 37.497725	1961	
+Barrikadnaya			   		1972	
+Baumanskaya		   55.773056, 37.681667	1944	
+Begovaya			   		1972	
+Belorusskaya		   55.776767, 37.5838	1952	
+Belorusskaya-Radialnaya	   55.776944, 37.583889	1938	
+Belyayevo		   55.642778, 37.526111	1974	
+Bibirevo		   55.884167, 37.603056	1992	
+Biblioteka Imeni Lenina	   55.751389, 37.609722	1935
+Bittsevsky Park		   NA	Planned ?
+Borisovo		   NA	Planned ?
+Borovitskaya		   55.751111, 37.607222	1986	
+Botanichesky Sad	   55.845, 37.638611	1978	
+Brateyevo		   55.631944, 37.764722	2011	Planned
+Bratislavskaya		   55.66, 37.750278	1996	
+Bulvar Admirala Ushakova   	  		2003	
+Bulvar Dmitriya Donskogo   55.569722, 37.576111	2002	
+Buninskaya Alleya	   55.538056, 37.515833	2003	
+Butyrskaya		   NA	Planned ?
+Chekhovskaya		   55.763056, 37.606944	1987	
+Chelobit'yevo		   NA	Planned ?
+Cherkizovskaya		   55.802778, 37.744819	1990
+Chertanovskaya		   	      		1983	No descriptions
+Chistiye Prudy		   55.764844, 37.638325	1935
+Chkalovskaya		   	      		1995	
+Delovoy Tsentr		NA	No info in Wikipedia
+Dinamo			   55.789722, 37.558056	1938	
+Dmitrovskaya		   55.806389, 37.581667	1991	
+Dobryninskaya		   55.728983, 37.622508	1950	
+Domodedovskaya		   55.610833, 37.719722	1985	
+Dostoyevskaya		   NA	Planned ?
+Dubrovka					1995	
+Elektrozavodskaya				1944	
+Fili			   55.746806, 37.513972	1959	
+Filyovsky Park		   55.739553, 37.483306	1961	
+Fonvizinskaya		   NA	Planned ?
+Frunzenskaya		   55.727222, 37.580278	1957
+Izmaylovskaya		   55.787778, 37.781667	1961	
+Kadashevskaya		   NA	No info in Wikipedia
+Kakhovskaya		   55.6527, 37.5972	1969	
+Kaluzhskaya		   55.657222, 37.540278	1974	
+Kaluzhskaya (closed)	   55.658333, 37.545278	1964	Closed in 1974
+Kantemirovskaya		   55.635833, 37.656111	1984	
+Kashirskaya		   55.655, 37.648611	1969	
+Kashirskaya		   55.655, 37.648611	1969	
+Kitay-Gorod		   55.755556, 37.6325	1971	
+Kitay-Gorod		   55.755556, 37.6325	1975	
+Kiyevskaya		   55.743153, 37.564317	1937	Opened in 1953
+Kiyevskaya		   55.743153, 37.564317	1954	
+Kiyevskaya		   55.743889, 37.565	1953	
+Kolomenskaya		   55.677778, 37.663889	1969	
+Komsomolskaya		   55.776486, 37.656169	1952	
+Komsomolskaya-Radialnaya   55.776486, 37.656169	1935
+Konkovo			   55.63333, 37.51917	1987	
+Konyushkovskaya		   NA	No info in Wikipedia
+Kozhukhovskaya		   55.706111, 37.685278	1995	
+Krasniye Vorota		   55.768611, 37.65	1935
+Krasnogvardeyskaya	   55.613889, 37.745	1985	
+Krasnopresnenskaya	   55.760206, 37.577244	1954	
+Krasnoselskaya		   55.779978, 37.666036	1935
+Krestyanskaya Zastava	   	      		1995	
+Kropotkinskaya		   55.744975, 37.6015	1935
+Krylatskoe		   55.756667, 37.407778	2008	
+Kuntsevskaya		   55.730792, 37.44593	1965	
+Kuntsevskaya		   55.730792, 37.44593	1965	Rebuilt in 2008
+Kurskaya		   55.758586, 37.659031	1950	
+Kurskaya-Radialnaya	   55.759167, 37.660833	1944	
+Kutuzovskaya		   55.739989, 37.534	1959	Completed in 1958
+Kuzminki		   	      		1966	
+Kuznetsky Most		   55.7614, 37.6245	1975	
+Leninsky Prospekt	   55.7075, 37.586389	1962	
+Lesoparkovaya		   NA	Planned ?
+Lubyanka		   55.759167, 37.627222	1935
+Lyublino		   55.675556, 37.761667	1996	
+Marksistskaya		   55.741667, 37.655556	1979	
+Maryina Roshcha		   NA	Planned ?
+Maryino			   55.648889, 37.743889	1996	
+Mayakovskaya		   55.77, 37.595833	1938	
+Medvedkovo		   55.887222, 37.661389	1978	
+Mendeleyevskaya		   55.782058, 37.598794	1988	
+Mezhdunarodnaya		   55.748056, 37.532778	2006	
+Mitino			   55.845556, 37.361944	NA	Expected
+Molodyozhnaya		   55.740833, 37.416667	1965	
+Myakinino		   55.824722, 37.384444	2009	Expected at the end of 2009
+Nagatinskaya		   	      		1983	No descriptions
+Nagornaya					1983	No descriptions
+Nakhimovsky Prospekt				1983	No descriptions
+Noviye Cheryomushki	   55.670278, 37.554444	1962	
+Novogireevo		   55.751667, 37.817222	1979	
+Novokosino		   NA	No info in Wikipedia
+Novokuryanovo		   NA	Planned ?
+Novokuznetskaya		   55.741111, 37.629444	1943	
+Novoslobodskaya		   55.779517, 37.601308	1952	
+Novoyasenevskaya	   55.601111, 37.554167	1990	
+Okhotnyi Ryad		   55.757778, 37.616389	1935
+Okruzhnaya		   NA	Planned ?
+Oktyabrskaya		   55.729444, 37.611111	1950	
+Oktyabrskaya		   55.729444, 37.611111	1962	
+Oktyabrskoye Pole	   	      		1972	
+Orekhovo		   55.613056, 37.694722	1984	
+Otradnoye		   55.863056, 37.604722	1992	
+Park Kultury		   55.735158, 37.593036	1950	
+Park Kultury		   55.735278, 37.593333	1935
+Park Pobedy		   55.736111, 37.516667	2003	
+Partizanskaya		   55.788056, 37.752222	1944	
+Paveletskaya-Koltsevaya	   55.730556, 37.636389	1950	
+Paveletskaya-Radialnaya	   55.730556, 37.636389	1943	
+Pechatniki		   	      		1995	
+Pechatniki					NA	Planned ?
+Perovo			   55.751111, 37.786667	1979	
+Pervomayskaya		   55.794444, 37.799444	1961	
+Pervomayskaya (closed)	   55.789444, 37.774444	1954	Closed in 1961
+Petrovsko-Razumovskaya	   NA	Planned ?
+Petrovsko-Razumovskaya	   55.836944, 37.574444	1991	
+Pionerskaya		   55.736028, 37.467058	1961	
+Planernaya		   	      		1975	
+Ploshchad Ilicha	   55.6538, 37.621	1979	
+Ploshchad Revolyutsii	   55.756389, 37.621389	1938	
+Ploshchad Suvorova	   NA	No info in Wikipedia
+Plushchikha		   NA	No info in Wikipedia
+Polezhaevskaya		   55.777553, 37.519211	1972	
+Polyanka		   55.737778, 37.618333	1986	
+Prazhskaya		   	      		1985	No descriptions
+Preobrazhenskaya Ploshchad 55.796111, 37.715556	1965
+Profsoyuznaya	 	   55.678056, 37.562778	1962	
+Proletarskaya		   	      		1966	
+Prospekt Mira		   55.780833, 37.6325	1952	
+Prospekt Mira		   55.780833, 37.6325	1958	
+Prospekt Vernadskogo	   55.676944, 37.506111	1963
+Pushkinskaya		   	      		1975	
+Rechnoi Vokzal		   55.854722, 37.476111	1964
+Rimskaya		   55.746233, 37.682317	1995	
+Rizhskaya		   55.792508, 37.636186	1958	
+Rossiyskaya		   NA	No info in Wikipedia
+Rozhdestveno		   55.863611, 37.363889	2012	Expected
+Ryazanskiy Prospekt	   	      		1966	
+Savyolovskaya		   55.793611, 37.5875	1988	
+Seligerskaya		   NA	Planned ?
+Semyonovskaya		   55.783056, 37.722222	1944	
+Serpukhovskaya		   55.728056, 37.624444	1983	
+Sevastopolskaya		   	      		1983	No descriptions
+Shabolovskaya		   55.719722, 37.608889	1980	
+Shchukinskaya		   	      		1975	
+Shchyolkovskaya		   55.809444, 37.798611	1963	
+Shipilovskaya		   NA	Planned ?
+Shosse Entuziastov	   55.758056, 37.749722	1979	
+Skhodnenskaya		   	      		1975	
+Slavyansky Bulvar	   55.7281, 37.4705	2008	
+Smolenskaya		   55.747733, 37.583869	1953	
+Smolenskaya		   55.748955, 37.582167	1935	
+Sokol			   55.804722, 37.515278	1938	
+Sokolniki		   55.789236, 37.679661	1935
+Sportivnaya		   55.723056, 37.563611	1957
+Sretensky Bulvar	   55.7658, 37.6354	2007	
+Stadion Spartak		   NA	Built in 1975, but never opened
+Strogino		   55.805278, 37.395555	2008	
+Studencheskaya		   55.738811, 37.548397	1959	
+Sukharevskaya		   55.773056, 37.632778	1971	
+Sviblovo		   55.855278, 37.652778	1978	
+Taganskaya		   55.741667, 37.655556	1966	
+Taganskaya		   55.742406, 37.653581	1950	
+Teatralnaya		   55.757778, 37.618611	1938	
+Tekhnopark		   NA	Planned
+Tekstilshchiki					1966	
+Timiryazevskaya		   55.818056, 37.576667	1991	
+Tretyakovskaya		   55.740833, 37.6275	1971	
+Tretyakovskaya		   55.740833, 37.6275	1986	
+Troitse Lykovo		   55.791944, 37.400556	NA	To be opened between 2012 and 2015
+Trubnaya		   55.7675, 37.621667	2007	
+Tryokhgorka		   NA	No info in Wikipedia
+Tsaritsyno		   55.621667, 37.669167	1984	Reopened in 1985
+Tsvetnoy Bulvar		   55.771667, 37.620556	1988	
+Tulskaya		   55.708611, 37.6225	1983	
+Turgenevskaya		   55.765833, 37.637778	1971	
+Tushinskaya		   	      		1975	
+Tverskaya		   55.765, 37.605556	1979	
+Tyoplyi Stan		   55.619796, 37.505876	1987	
+Ulitsa 1905 Goda		      		1972	
+Ulitsa Akademika Yangelya			2000	No descriptions
+Ulitsa Gorchakova				2003	
+Ulitsa Ostafevskaya	   NA	Planned ?
+Ulitsa Podbelskogo	   55.814444, 37.733889	1990
+Ulitsa Skobelevskaya	   55.548056, 37.554444	2003	
+Ulitsa Starokachalovskaya  55.569722, 37.576111	2003	
+Ulitsa Staropotapovskaya		NA	Planned ?
+Universitet		   55.692, 37.533	1959
+VDNKh			   55.822283, 37.641494	1958	
+Varshavskaya		   55.653333, 37.619444	1969	
+Verkhniye Likhobory		NA	Planned ?
+Vladykino		   55.847222, 37.589722	1991	
+Vodny Stadion		   55.839722, 37.486389	1964
+Volgogradsky Prospekt		      		1966	
+Volkhonka		   NA	No info in Wikipedia
+Volokolamskaya		   55.835994, 37.381422	2009	Expected at the end of 2009
+Volzhskaya		   55.690556, 37.755556	1995	
+Vorobyovy Gory		   55.710544, 37.559447	1958
+Voykovskaya		   55.819167, 37.4975	1964
+Vykhino			   	      		1966	
+Vystavochnaya		   55.748611, 37.538056	2005	
+Yasenevo		   55.606111, 37.533056	1990	
+Yubileynaya		   NA	Planned ?
+Yugo-Zapadnaya		   55.663611, 37.482778	1963
+Yuzhnaya		   	      		1983	No descriptions
+Zhulebino					NA	To be opened in 2011
+Zyablikovo					NA	Planned ?

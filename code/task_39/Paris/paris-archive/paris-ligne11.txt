@@ -1,0 +1,12 @@
+MairiedesLilas	PortedesLilas
+PortedesLilas	Telegraphe
+Telegraphe	PlacedesFetes
+PlacedesFetes	Jourdain
+Jourdain	Pyrenees
+Pyrenees	Belleville
+Belleville	Goncourt
+Goncourt	Republique
+Republique	ArtsetMetiers
+ArtsetMetiers	Rambuteau
+Rambuteau	HoteldeVille
+HoteldeVille	Chatelet

@@ -1,0 +1,12 @@
+Krylatskoe	Molodyozhnaya
+Molodyozhnaya	Kuntsevskaya
+Kuntsevskaya	Pionerskaya
+Pionerskaya	FilyovskyPark
+FilyovskyPark	Bagrationovskaya
+Bagrationovskaya	Fili
+Fili	Kutuzovskaya
+Kutuzovskaya	Studencheskaya
+Studencheskaya	Kiyevskaya
+Kiyevskaya	Smolenskaya-L4
+Smolenskaya-L4	Arbatskaya
+Arbatskaya	AlexandrovskySad-Arbatskaya-BibliotekaImeniLenina-Borovitskaya

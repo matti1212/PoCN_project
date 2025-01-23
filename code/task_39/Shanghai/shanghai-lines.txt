@@ -1,0 +1,12 @@
+Shanghai	shanghai-stations-positions-years.txt	shanghai-stations-exceptions-years.txt
+Line1	shanghai-line1.txt	1995
+Line2	shanghai-line2.txt	1999
+Line3	shanghai-line3.txt	2000
+Line4	shanghai-line4.txt	2005
+Line5	shanghai-line5.txt	2003
+Line6	shanghai-line6.txt	2007
+Line7	shanghai-line7.txt	2009
+Line8	shanghai-line8.txt	2007
+Line9	shanghai-line9.txt	2007
+Line10	shanghai-line10.txt	2010
+Line11	shanghai-line11.txt	2009

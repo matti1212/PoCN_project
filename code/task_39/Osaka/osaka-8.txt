@@ -1,0 +1,10 @@
+Itakano			ZuikoYonchome
+ZuikoYonchome		Daido-Toyosato	 
+Daido-Toyosato	 	Taishibashi-Imaichi
+Taishibashi-Imaichi	Shimizu	
+Shimizu	 		Shimmori-Furuichi
+Shimmori-Furuichi	Sekime-Seiiku		 
+Sekime-Seiiku		GamoYonchome
+GamoYonchome		Shigino		
+Shigino			Midoribashi
+Midoribashi		Imazato

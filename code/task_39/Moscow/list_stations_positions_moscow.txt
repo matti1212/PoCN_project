@@ -1,0 +1,256 @@
+Moscow subway
+
+http://en.wikipedia.org/wiki/Moscow_Metro
+
+
+Line 1
+		
+S01	Ulitsa Podbelskogo
+S02	Cherkizovskaya
+S03	Preobrazhenskaya Ploshchad
+S04	Sokolniki
+S05	Krasnoselskaya
+S06	Komsomolskaya		
+S07	Krasniye Vorota
+S08	Chistiye Prudy
+S09	Lubyanka
+S10	Okhotnyi Ryad
+S11	Biblioteka Imeni Lenina
+S12	Kropotkinskaya
+S13	Park Kultury
+S14	Frunzenskaya
+S15	Sportivnaya
+S16	Vorobyovy Gory
+S17	Universitet
+S18	Prospekt Vernadskogo
+S19	Yugo-Zapadnaya
+
+Line 2
+
+Z01	Rechnoi Vokzal
+Z02	Vodny Stadion
+Z03	Voykovskaya
+Z04	Sokol
+Z05	Aeroport
+Z06	Dinamo
+Z07	Belorusskaya
+Z08	Mayakovskaya
+Z09	Tverskaya
+Z10	Teatralnaya
+Z11	Novokuznetskaya
+Z12	Paveletskaya
+Z13	Avtozavodskaya
+Z14	Tekhnopark
+Z15	Kolomenskaya
+Z16	Kashirskaya
+Z17	Kantemirovskaya
+Z18	Tsaritsyno
+Z19	Orekhovo
+Z20	Domodedovskaya
+Z21	Krasnogvardeyskaya
+Z22	Brateyevo
+
+Line 3
+	
+A01	Shchyolkovskaya
+A02	Pervomayskaya
+A03	Izmaylovskaya
+A04	Pervomayskaya (closed)
+A05	Partizanskaya
+A06	Semyonovskaya
+A07	Elektrozavodskaya
+A08	Baumanskaya
+A09	Kurskaya
+A10	Ploshchad Revolyutsii
+A11	Arbatskaya
+A12	Smolenskaya
+A13	Kiyevskaya
+A14	Park Pobedy
+A15	Slavyansky Bulvar
+A16	Kuntsevskaya
+A17	Molodyozhnaya
+A18	Krylatskoe
+A19	Troitse Lykovo
+A20	Strogino
+A21	Myakinino
+A22	Volokolamskaya
+A23	Mitino
+A24	Rozhdestveno
+
+Line 4
+	
+F01	Kuntsevskaya
+F02	Pionerskaya
+F03	Filyovsky Park
+F04	Bagrationovskaya
+F05	Fili
+F06	Kutuzovskaya
+F07	Studencheskaya
+F08	Mezhdunarodnaya
+F09	Vystavochnaya
+F10	Kiyevskaya
+F11	Smolenskaya
+F12	Arbatskaya
+F13	Alexandrovsky Sad
+
+Line 5
+
+K01	Park Kultury
+K02	Oktyabrskaya
+K03	Dobryninskaya
+K04	Paveletskaya
+K05	Taganskaya
+K06	Kurskaya
+K07	Komsomolskaya
+K08	Prospekt Mira
+K09	Ploshchad Suvorova
+K10	Novoslobodskaya
+K11	Belorusskaya
+K12	Krasnopresnenskaya
+K13	Rossiyskaya
+K14	Kiyevskaya
+
+Line 6
+
+KR01	Chelobit'yevo
+KR02	Medvedkovo
+KR03	Babushkinskaya
+KR04	Sviblovo
+KR05	Botanichesky Sad
+KR06	VDNKh
+KR07	Alexeyevskaya
+KR08	Rizhskaya
+KR09	Prospekt Mira
+KR10	Sukharevskaya
+KR11	Turgenevskaya
+KR12	Kitay-Gorod
+KR13	Tretyakovskaya
+KR14	Oktyabrskaya
+KR15	Shabolovskaya
+KR16	Leninsky Prospekt
+KR17	Akademicheskaya
+KR18	Profsoyuznaya
+KR19	Noviye Cheryomushki
+KR20	Kaluzhskaya (closed)
+KR21	Kaluzhskaya
+KR22	Belyayevo
+KR23	Konkovo
+KR24	Tyoplyi Stan
+KR25	Yasenevo
+KR26	Novoyasenevskaya
+
+Line 7
+	
+T01	Planernaya
+T02	Skhodnenskaya
+T03	Tushinskaya
+T04	Stadion Spartak
+T05	Shchukinskaya
+T06	Oktyabrskoye Pole
+T07	Polezhaevskaya
+T08	Begovaya
+T09	Ulitsa 1905 Goda
+T10	Barrikadnaya
+T11	Pushkinskaya
+T12	Kuznetsky Most
+T13	Kitay-Gorod
+T14	Taganskaya
+T15	Proletarskaya
+T16	Volgogradsky Prospekt
+T17	Tekstilshchiki
+T18	Kuzminki
+T19	Ryazanskiy Prospekt
+T20	Vykhino
+T21	Zhulebino
+
+Line 8
+
+KK01	Novokosino
+KK02	Novogireevo
+KK03	Perovo
+KK04	Shosse Entuziastov
+KK05	Aviamotornaya
+KK06	Ploshchad Ilicha
+KK07	Marksistskaya
+KK08	Tretyakovskaya
+KK09	Kadashevskaya
+KK10	Volkhonka
+KK11	Plushchikha
+KK12	Konyushkovskaya
+KK13	Tryokhgorka
+KK14	Delovoy Tsentr
+
+Line 9
+
+ST01	Altufyevo
+ST02	Bibirevo
+ST03	Otradnoye
+ST04	Vladykino
+ST05	Petrovsko-Razumovskaya
+ST06	Timiryazevskaya
+ST07	Dmitrovskaya
+ST08	Savyolovskaya
+ST09	Mendeleyevskaya
+ST10	Tsvetnoy Bulvar
+ST11	Chekhovskaya
+ST12	Borovitskaya
+ST13	Polyanka
+ST14	Serpukhovskaya
+ST15	Tulskaya
+ST16	Nagatinskaya
+ST17	Nagornaya
+ST18	Nakhimovsky Prospekt
+ST19	Sevastopolskaya
+ST20	Chertanovskaya
+ST21	Yuzhnaya
+ST22	Prazhskaya
+ST23	Ulitsa Akademika Yangelya
+ST24	Annino
+ST25	Bulvar Dmitriya Donskogo
+
+Line 10
+
+L01	Yubileynaya
+L02	Seligerskaya
+L03	Verkhniye Likhobory
+L04	Okruzhnaya
+L05	Petrovsko-Razumovskaya
+L06	Fonvizinskaya
+L07	Butyrskaya
+L08	Maryina Roshcha
+L09	Dostoyevskaya
+L10	Trubnaya
+L11	Sretensky Bulvar
+L12	Chkalovskaya
+L13	Rimskaya
+L14	Krestyanskaya Zastava
+L15	Dubrovka
+L16	Kozhukhovskaya
+L17	Pechatniki
+L18	Volzhskaya
+L19	Lyublino
+L20	Bratislavskaya
+L21	Maryino
+L22	Borisovo
+L23	Shipilovskaya
+L24	Zyablikovo
+
+Line 11
+
+KA01	Pechatniki
+KA02	Kashirskaya
+KA03	Varshavskaya
+KA04	Kakhovskaya
+
+Line L1
+
+B01	Bittsevsky Park
+B02	Lesoparkovaya
+B03	Ulitsa Starokachalovskaya
+B04	Ulitsa Skobelevskaya
+B05	Bulvar Admirala Ushakova
+B06	Ulitsa Gorchakova
+B07	Buninskaya Alleya
+B08	Ulitsa Staropotapovskaya
+B09	Ulitsa Ostafevskaya
+B10	Novokuryanovo

@@ -1,0 +1,13 @@
+Nodahanshin		Tamagawa
+Tamagawa		Awaza
+Awaza			Nishi-Nagahori
+Nishi-Nagahori		Sakuragawa
+Sakuragawa		Namba
+Namba			Nippombashi
+Nippombashi		TanimachiKyuchome
+TanimachiKyuchome	Tsuruhashi
+Tsuruhashi		Imazato
+Imazato			Shin-Fukae
+Shin-Fukae		Shoji
+Shoji			Kita-Tatsumi
+Kita-Tatsumi		Minami-Tatsumi

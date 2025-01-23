@@ -1,0 +1,13 @@
+Cosmosquare		Osakako
+Osakako			Asashiobashi
+Asashiobashi		Bentencho
+Bentencho		Kujo
+Kujo			Awaza	
+Awaza			Hommachi
+Hommachi		Sakaisuji-Hommachi
+Sakaisuji-Hommachi	TanimachiYonchome
+TanimachiYonchome	Morinomiya
+Morinomiya		Midoribashi
+Midoribashi		Fukaebashi
+Fukaebashi		Takaida
+Takaida			Nagata
